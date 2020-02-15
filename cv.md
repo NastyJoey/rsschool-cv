@@ -34,10 +34,7 @@ I can work with :
 
 - Git
 
-  
 
 Was studying in _Kyiv National University of Trade and Economics_ 2008 - 2013. Master degree.
-
-  
 
 English Level - B1.
