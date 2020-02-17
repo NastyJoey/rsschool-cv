@@ -1,1 +1,19 @@
+.my-cv {
+  max-width: 1024px;
+  margin: 0 auto;
+}
 
+img {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+span.italic {
+  font-style: italic;
+}
+span.strong {
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
